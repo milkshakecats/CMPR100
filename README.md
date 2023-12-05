@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Benefits of Excel and Access</title>
+    <title>Benefits of Excel and Access By Josie McDaniel</title>
 </head>
 <body>
     <h1>Why Microsoft Excel and Access are Great</h1>
