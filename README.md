@@ -24,4 +24,10 @@
         <li>Data visualization through charts and graphs: Visualize data trends and patterns using various chart types.</li>
     </ul>
 
-    <h2>Embed
+    <h2>Embedded Video: Benefits of Microsoft Access</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IE-k89pZWDc" frameborder="0" allowfullscreen></iframe>
+    <p>Here is the video about the benefits of Microsoft Access.</p>
+
+
+</body>
+</html>
